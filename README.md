@@ -1,0 +1,2 @@
+# visualization_of_probabilistic_data
+visualization of probabilistic data generated through samples
